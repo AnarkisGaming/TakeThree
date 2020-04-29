@@ -26,7 +26,7 @@ using System.Windows;
 [assembly: AssemblyTitle("Take Three")]
 [assembly: AssemblyDescription("Afta da Kolaps Uploda")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Anarkis Gaming")]
+[assembly: AssemblyCompany("Eskargot Jemming")]
 [assembly: AssemblyProduct("Take Three")]
 [assembly: AssemblyCopyright("Copyright © 2018 Eskargot Jemming")]
 [assembly: AssemblyTrademark("")]
