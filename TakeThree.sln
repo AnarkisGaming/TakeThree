@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeThree", "TakeThree\TakeThree.csproj", "{C63E129F-473E-462E-BD48-48F56D3076AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63E129F-473E-462E-BD48-48F56D3076AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63E129F-473E-462E-BD48-48F56D3076AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63E129F-473E-462E-BD48-48F56D3076AA}.Debug|x64.ActiveCfg = Debug|x64
+		{C63E129F-473E-462E-BD48-48F56D3076AA}.Debug|x64.Build.0 = Debug|x64
+		{C63E129F-473E-462E-BD48-48F56D3076AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63E129F-473E-462E-BD48-48F56D3076AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63E129F-473E-462E-BD48-48F56D3076AA}.Release|x64.ActiveCfg = Release|x64
+		{C63E129F-473E-462E-BD48-48F56D3076AA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6BC31C4-D2AC-4461-8563-28BE504BA0BA}
+	EndGlobalSection
+EndGlobal
